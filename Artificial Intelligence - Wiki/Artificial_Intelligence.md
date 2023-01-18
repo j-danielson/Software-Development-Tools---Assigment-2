@@ -1,4 +1,3 @@
 ## Artificial Intelligence
----
 #### Definition
 
