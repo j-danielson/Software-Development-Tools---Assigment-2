@@ -1,5 +1,5 @@
 ## Artificial Intelligence 
-#### *How close to us can it be and how far could it reach?*
+#### *How close to us is it nowadays and how far could it reach in the future?*
 
 |Table of Contents|
 |:------|
