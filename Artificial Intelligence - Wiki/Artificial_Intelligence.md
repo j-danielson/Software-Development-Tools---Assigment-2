@@ -1,7 +1,7 @@
 ## Artificial Intelligence
 #### Definition
 
-By definition, Artificial Intelligence is software written to perform a determined task imitating the human thought process by design. Think of a simple piece of facial recognition software program that might detect faces in photographs by looking for patterns just like we would when we look at different faces. We can take into account that pretty much all human faces share certain features. Our eye sockets and mouth usually present as darker, while our forehead, cheekbones, nose and chin form raised areas instead.
+According to a very interesting article[^2] I came accross, by definition, Artificial Intelligence is software written to perform a determined task imitating the human thought process by design. Think of a simple piece of facial recognition software program that might detect faces in photographs by looking for patterns just like we would when we look at different faces. We can take into account that pretty much all human faces share certain features. Our eye sockets and mouth usually present as darker, while our forehead, cheekbones, nose and chin form raised areas instead.
 
 Everybody's facial features are in roughly the same place, so we can assume it's a good pattern to look for when trying to differentiate between faces. A more complex facial recognition system could be able to recognize specific faces by measuring the distance between and the size of identifiable features.
 
@@ -30,4 +30,4 @@ General AI would be artificial beings, conscious of themselves and able to under
 > "bodies" look like).
 
 [^1]: https://www.bbc.com/news/technology-30290540
-
+[^2]: https://www.reddit.com/r/explainlikeimfive/comments/5yue8h/eli5_what_is_ai_or_artificial_intelligence/
