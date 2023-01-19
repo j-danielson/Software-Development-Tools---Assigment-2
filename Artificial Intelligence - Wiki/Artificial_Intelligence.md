@@ -14,7 +14,10 @@ Professor Stephen Hawkins was very particular about his take on AI.
 > In his own words: "The development of full artificial intelligence could spell the end of the human race." Current AI likely couldn't > do anything like it but we're currently so cavalier about AI that we'd likely not spot a fatal mistake until after we'd make it, he 
 > stated to BBC.
 
+An example I'm sure we all can think of:
+
 ![alt text](https://ei.marketwatch.com/Multimedia/2018/02/13/Photos/ZH/MW-GD647_skynet_20180213113524_ZH.jpg)
+
 AI, what could possibly go wrong.
 
 Judging by the nature of their purpose, theres two main AI branches - narrow and general. 
