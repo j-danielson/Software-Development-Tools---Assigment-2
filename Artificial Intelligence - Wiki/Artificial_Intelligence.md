@@ -9,7 +9,7 @@ An system even smarter might record every face passing by it's cameras to create
 
 AI has massive potential, there is simply no doubt. As we have discussed above, processing power and software complexity offers opportunity to create increasingly complex behaviour and problem solving, incresaing our ability to maximize the use of our resources in the quest of making our life much easier. With AI we could get closer to worrying less about menial things, although some also argue it might be apporiate to worry about it getting out of control.
 
-Professor Stephen Hawkins was very particular about his take on AI. 
+Professor Stephen Hawkins was very particular about his take on AI. [^1]
 
 > In his own words: "The development of full artificial intelligence could spell the end of the human race." Current AI likely couldn't > do anything like it but we're currently so cavalier about AI that we'd likely not spot a fatal mistake until after we'd make it, he 
 > stated to BBC.
@@ -28,4 +28,6 @@ General AI would be artificial beings, conscious of themselves and able to under
 
 > Narrow AI can be analogized as artificial animals, while general AI can be thought of as artificial people (regardless of what their 
 > "bodies" look like).
+
+[^1]: https://www.bbc.com/news/technology-30290540
 
